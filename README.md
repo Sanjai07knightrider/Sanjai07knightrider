@@ -73,7 +73,7 @@ I enjoy creating scalable web applications, intelligent AI-powered systems, and 
 
 🌐 Portfolio Website:
 
-https://sanjai-portfolio-chi.vercel.app
+https://sanjai-portfolio.me
 
 ---
 
