@@ -144,7 +144,7 @@ https://sanjai-portfolio.me
 <img src="https://img.shields.io/badge/Email-sanjaiking4729%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="ADD_PORTFOLIO_LINK_HERE">
+<a href="https://sanjai-portfolio.me">
 <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-F97316?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
